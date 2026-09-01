@@ -109,7 +109,8 @@ body {
 }
 
 .for-bg-orange{
-    
+    padding: 34px 20px;
+    background: url(https://raw.githubusercontent.com/ZheniokCN/email-send/refs/heads/master/img/orange.png);
 }
 
 .head-orange-section {
@@ -124,6 +125,7 @@ body {
     line-height: 20px;
     color: #ffffff;
     text-align: center;
+    padding: 14px 0 16px;
 }
 
 .button-orange-section {
