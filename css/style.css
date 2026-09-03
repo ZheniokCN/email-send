@@ -122,18 +122,6 @@ body {
     margin-left: 9px;
 }
 
-.img-footer-link {
-    display: inline-block;
-    border-radius: 50%;
-    background-color: #fff;
-    vertical-align: top;
-    aspect-ratio: 35/35;
-    text-align: center;
-    min-height: 35px;
-    max-width: 35px;
-    width: 100%;
-}
-
 .main-part-footer {
     padding: 30px 10px 17px;
     background-color: #08081a;
