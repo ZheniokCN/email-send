@@ -108,9 +108,36 @@ body {
     width: 100%;
 }
 
-.for-bg-orange{
+.for-bg-orange {
     padding: 34px 20px;
     background: url(https://raw.githubusercontent.com/ZheniokCN/email-send/refs/heads/master/img/orange.png);
+}
+
+.footer-img-padding {
+    text-align: center;
+}
+
+
+.img-footer-link+.img-footer-link {
+    margin-left: 9px;
+}
+
+.img-footer-link {
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #fff;
+    vertical-align: top;
+    aspect-ratio: 35/35;
+    text-align: center;
+    min-height: 35px;
+    max-width: 35px;
+    width: 100%;
+}
+
+.main-part-footer {
+    padding: 30px 10px 17px;
+    background-color: #08081a;
+    text-align: center;
 }
 
 .head-orange-section {
@@ -139,14 +166,30 @@ body {
     font-weight: bold;
     border-radius: 20px;
     background-color: #1f1f56;
-    text-align: center;
+}
+
+.text-footer {
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    padding: 22px 0 40px;
+}
+
+.link-footer + .link-footer{
+    border-left: 1px solid #fd8300;
+    padding-left: 3px;
+}
+
+.link-footer {
+    font-size: 11px;
+    line-height: 18px;
+    color: #fd8300;
 }
 
 .text-houses {
     font-size: 13px;
     line-height: 19px;
     color: #9999a6;
-    font-family: "Arial";
 }
 
 .text-right {
